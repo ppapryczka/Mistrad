@@ -1,0 +1,2 @@
+pyserial==3.5
+git+https://github.com/ppapryczka/FaultInjectionMessages.git#egg=fault-injection-messages
